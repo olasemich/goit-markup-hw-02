@@ -63,11 +63,12 @@ a {
 .title {
     font-family: "Roboto";
     font-weight: bold;
-    size: 56px;
+    font-size: 56px;
     color: #ffffff;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
+
 }
 
 .button {
@@ -80,6 +81,21 @@ a {
 }
 
 .button:hover,
-.button:active {
+.button:focus {
     background-color: #404BBF;
+}
+
+.section_2_heading {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.section_2_text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
