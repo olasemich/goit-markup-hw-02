@@ -42,7 +42,8 @@ a {
     letter-spacing: 0.02em;
 }
 
-.list-item-link:hover .list-item-link:focus {
+.list .list-item-link:hover,
+.list .list-item-link:focus {
     color: #404bbf;
 }
 
@@ -51,15 +52,14 @@ a {
     margin-left: auto;
 }
 
-
-
-.address-list-item {
+.address-list-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.address-list-item:hover .address-list-item:focus {
+.list .address-list-link:hover,
+.list .address-list-link:focus {
     color: #404bbf;
 }
