@@ -175,8 +175,9 @@ footer {
 .footer-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: var(--CLOUD, #F4F4FD);
 }
 
 .logo-span-footer {
-    color: var(--CLOUD, #F4F4FD);
+    color: #f4f4fd;
 }
