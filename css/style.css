@@ -179,5 +179,5 @@ footer {
 }
 
 .logo-span-footer {
-    color: #f4f4fd;
+    color: var(--CLOUD, #F4F4FD);
 }
