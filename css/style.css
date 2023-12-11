@@ -34,7 +34,7 @@ a {
     color: #2e2f42;
 }
 
-.list-item {
+.list-item-link {
     color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
@@ -42,7 +42,7 @@ a {
     letter-spacing: 0.02em;
 }
 
-.list-item-link .link:hover .list-item-link .link:focus {
+.list-item-link:hover .list-item-link:focus {
     color: #404bbf;
 }
 
@@ -60,6 +60,6 @@ a {
     color: #434455;
 }
 
-.address-list-item .link:hover .address-list-item .link:focus {
+.address-list-item:hover .address-list-item:focus {
     color: #404bbf;
 }
