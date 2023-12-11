@@ -85,7 +85,7 @@ a {
     background-color: #404BBF;
 }
 
-.section_2_heading {
+.section-2-heading {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -93,9 +93,13 @@ a {
     color: #2e2f42;
 }
 
-.section_2_text {
+.section-2-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.section-3 {
+    background-color: #F4F4FD;
 }
