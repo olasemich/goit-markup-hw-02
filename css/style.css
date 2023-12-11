@@ -5,7 +5,7 @@ body {
 }
 
 a {
-    text-decoration: none
+    text-decoration: none;
 }
 
 .list {
@@ -56,7 +56,7 @@ a {
     color: #404bbf;
 }
 
-.section_1 {
+.section-1 {
     background-color: #2e2f42;
 }
 
@@ -102,4 +102,18 @@ a {
 
 .section-3 {
     background-color: #F4F4FD;
+}
+
+.section-3-heading {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.team-list {
+    background-color: #FFFFFF;
+    list-style: none;
 }
