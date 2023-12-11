@@ -12,6 +12,14 @@ body {
     background-color: #FFFFFF;
 }
 
+a {
+    text-decoration: none
+}
+
+.list {
+    list-style: none;
+}
+
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -35,5 +43,23 @@ body {
 }
 
 .list-item-link .link:hover .list-item-link .link:focus {
+    color: #404bbf;
+}
+
+.address-list {
+    font-style: normal;
+    margin-left: auto;
+}
+
+
+
+.address-list-item {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.address-list-item .link:hover .address-list-item .link:focus {
     color: #404bbf;
 }
