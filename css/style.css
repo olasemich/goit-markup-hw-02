@@ -60,7 +60,7 @@ a {
     background-color: #2e2f42;
 }
 
-.title {
+.section-1-heading {
     font-family: "Roboto";
     font-weight: bold;
     font-size: 56px;
@@ -132,6 +132,11 @@ a {
 .team-list {
     background-color: #FFFFFF;
     list-style: none;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .section-4-heading {
@@ -171,4 +176,8 @@ footer {
 .footer-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.logo-span-footer {
+    color: #f4f4fd;
 }
